@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/discord/508727953350328320?style=flat-square)](https://discord.gg/kFqWZtv)
 
 <p align="center">
-  <h1>Rushifaa - Frontend</h1>
+  <h1>Rushifaa - Site</h1>
 </p>
 
 
