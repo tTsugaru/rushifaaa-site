@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/discord/508727953350328320?style=flat-square)](https://discord.gg/kFqWZtv)
 
 <p align="center">
-  <h1>Rushifaa - Site</h1>
+  <h1>Rushifaa - Backend</h1>
 </p>
 
 
@@ -21,22 +21,8 @@
 It's just a site for me, just like a "personal" site.
 
 
-##Getting Started
-This is the `master` branch so to start you need the `backend` and the `frontend`.  
-**Frontend** is in the `frontend` branch and the **backend** is in the `backend` branch. 
-
-To start you need to clone this repo. 
-`git clone https://www.github.com/Rushifaaa/rushifaaa-site` 
- 
-You just need to be in the directory. 
-`cd rushifaaa-site` 
-
-Now you can switch to the `backend` or `frontend` branch. 
-`git checkout backend` or `frontend` 
-
-Now just type `yarn` to get all dependencies.
-
-`yarn start` starts the `frontend/backend`
+## Getting Started
+coming soon...
 
 
 ## License
